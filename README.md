@@ -1,0 +1,2 @@
+# VintedAbitrageAlgorithm
+Finds Pricing anomalies 
